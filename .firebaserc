@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-zeltserj": {
+      "hosting": {
+        "ttt": [
+          "fir-zeltserj"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-zeltserj"
+  }
+}
